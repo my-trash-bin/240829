@@ -1,0 +1,13 @@
+{
+  "name": "@this-project/universal--web--libraries--guc-core",
+  "version": "0.1.0",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": ["index.js", "lib/"],
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
+}
